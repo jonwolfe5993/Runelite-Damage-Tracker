@@ -15,9 +15,6 @@ import net.runelite.api.events.HitsplatApplied;
 import net.runelite.api.Actor;
 import net.runelite.api.NPC;
 import net.runelite.api.events.NpcDespawned;
-import java.util.Queue;
-import java.util.LinkedList;
-
 
 
 @Slf4j
